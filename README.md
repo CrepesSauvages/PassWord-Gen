@@ -6,7 +6,7 @@ This script generates a password with the number of characters you want but abus
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/CrepesSauvages)
+- [@CrepesSauvages](https://www.github.com/CrepesSauvages)
 
 
 ## License
